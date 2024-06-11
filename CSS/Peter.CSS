@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+header {
+    background-color: black;
+    color: red;
+    padding: 10px 0;
+    font: 100; color: blue
+}
+
+header img {
+
+    width: 100px;
+    height: auto;
+    float: right;
+     
+} 
+
+ol {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 0px;
+}
+
+nav ol li a {
+    color: white;
+    text-decoration: none;
+    nav
+}
+
+section {
+    padding: 10px;
+    margin: 10px 0;
+    background-color: blueviolet;
+    border-radius: 20px;
+    box-shadow: 0 0 20px
+    
+}
+
+
+footer {
+    text-align: center;
+    padding: 0px 0;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    
+}
