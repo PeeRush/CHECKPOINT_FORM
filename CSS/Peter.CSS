@@ -15,12 +15,12 @@ header {
 header img {
 
     width: 100px;
-    height: 100px;
+    height: 60px;
     float: right;
      
 } 
 
-ol {
+l {
     list-style: none;
     padding: 0;
     text-align: left;
